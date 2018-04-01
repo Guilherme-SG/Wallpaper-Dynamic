@@ -14,7 +14,7 @@ To it works, you have to create a file in data/config named weatherAPI.json
 ```JSON
 {
   "key": "your key provided by weather api",
-  "cityId: "city that you want to get data"
+  "cityId": "city that you want to get data"
 }
 ```
 ## Time
