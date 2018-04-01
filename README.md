@@ -9,3 +9,4 @@ I'm getting weather data from OpenWeatherMap API. The application makes request 
 API link: https://openweathermap.org/api
 
 For each weather will be created a folder named with the weather, there you'll be able to put images to be your background in repective weather
+d
