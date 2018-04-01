@@ -12,8 +12,8 @@ namespace WallPaperDynamic.File
 
         public DirectoryController()
         {
-            imageBasePath = @"Data\Images";
-            configBasePath = @"Data\Configs";
+            imageBasePath = @"data\images";
+            configBasePath = @"data\config";
             defaultImage = "void.jpg";
         }
 
