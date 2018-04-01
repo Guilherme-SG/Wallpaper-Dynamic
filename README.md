@@ -10,7 +10,7 @@ Each weather will be your own folder named with the weather, there you'll be abl
 The aplication are using weather data from OpenWeatherMap API. 
 API link: https://openweathermap.org/api
 
-To it works, you have to create a file in data/config named weatherAPI.json
+To it works, you have to create a file in data/config named weatherAPI.json.
 ```JSON
 {
   "key": "your key provided by weather api",
