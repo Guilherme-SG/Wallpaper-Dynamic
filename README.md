@@ -2,7 +2,7 @@
 My desktop application in C# that changes the background windows depending on the time and the weather
 
 # Backgrounds
-
+All background images have to be in data/images/ and they have do be JPG
 ## Time
 
 
