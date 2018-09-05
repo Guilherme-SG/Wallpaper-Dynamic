@@ -1,4 +1,4 @@
-# Wallpaper-Dynamic
+# Wallpaper-Dynamic - Windows 7
 My desktop application in C# that changes the background windows depending on the time and the weather
 
 # How it works
